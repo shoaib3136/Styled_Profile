@@ -66,7 +66,7 @@ proficiency to the future of AI and machine learning.</p>
 ```
 
 ## Output:
-
+![alt text](image.png)
 
 ## Result:
 A visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques is designed.
