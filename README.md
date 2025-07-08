@@ -64,6 +64,46 @@ proficiency to the future of AI and machine learning.</p>
 </body>
 </html>
 ```
+## CSS Code:
+```
+body{
+    background-color: rgb(158, 158, 238);
+    padding: auto;
+    border-left: solid rgb(158, 158, 238) ;
+    border-right: solid rgb(158, 158, 238);
+
+}
+h1{
+    font-family: Arial, sans-serif;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+h2{
+    font-family: Arial, sans-serif;
+    font-size: medium;
+    color: white;
+   
+}
+hr{
+    color: white
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 5%    ;
+    color: white
+}
+img{
+    border-radius: 50%;
+}
+p:hover{
+    background-color: rgb(10, 10, 10);
+    
+}
+```
 
 ## Output:
 ![alt text](image.png)
