@@ -107,6 +107,7 @@ p:hover{
 
 ## Output:
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ## Result:
 A visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques is designed.
